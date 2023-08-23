@@ -21,3 +21,8 @@ REPLACE=
 ## Usage
 
 python batch_update.py
+
+## Limitations
+This was created quickly for an internal migration of a small repository. It retrieves the most recent 1000 DOIs from a repository, though it could be adapted to retrieve and update more.
+
+As this code was not officially reviewed or tested by the DataCite engineering team, please take care to check for errors when using it.
