@@ -12,8 +12,8 @@ FIND=
 REPLACE=
 ```
 
-- ACCOUNT_ID: DataCite Repository account ID
-- ACCOUNT_PASS: DataCite Repostiory account pass
+- ACCOUNT_ID: DataCite Repository account ID.
+- ACCOUNT_PASS: DataCite Repostiory account password.
 - PROD: Set to "true" for production environment; default is "false" for test environment.
 - FIND: String to find in the URL.
 - REPLACE: String to replace with in the URL.
